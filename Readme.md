@@ -18,3 +18,5 @@ A simple and clean Calculator built using **HTML**, **CSS**, and **JavaScript**.
 ❤️ Author
 Saurav verma
 12 feb 2024..
+
+
